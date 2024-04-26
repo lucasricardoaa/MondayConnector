@@ -1,7 +1,3 @@
-Sure, here's a basic template for your README file on GitHub:
-
----
-
 # Monday.com API Integration Portfolio
 
 ## Overview
